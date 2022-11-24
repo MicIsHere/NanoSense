@@ -1,0 +1,22 @@
+{
+  "required": false,
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.supermic.nanosense.mixins.patch",
+  "refmap": "mixins.nano.refmap.json",
+  "client": [
+    "MixinJsonUtils",
+    "baritone.MixinBaritoneSettings",
+    "entity.MixinEntityDataManager",
+    "gui.MixinGuiInventory",
+    "gui.MixinPacketThreadUtil",
+    "optifine.MixinConfig",
+    "player.MixinPlayerControllerMP",
+    "render.MixinRenderGlobal",
+    "render.MixinVisGraph",
+    "world.MixinBlock",
+    "world.MixinChunk",
+    "world.MixinWorld",
+    "MixinDisplay"
+  ]
+}

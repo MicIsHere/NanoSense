@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.supermic.nanosense.mixins.devfix",
+  "refmap": "mixins.nano.refmap.json",
+  "client": [
+    "MixinASMModParser",
+    "MixinJarDiscoverer",
+    "MixinNetworkRegistry"
+  ]
+}
