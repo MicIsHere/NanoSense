@@ -23,6 +23,10 @@ MacOS is unsupported and will NOT be fixed since it is an Apple issue.
 
 MacOS不受支持，不会被修复，因为这是苹果的问题。
 
+At present, NanoSense is still testing. If there is a problem, please send the issue in the warehouse or join the QQGroup to ask
+
+目前NanoSense处于测试阶段，出现任何问题请在仓库发送Issue或加入QQ群询问
+
 
 # FAQ | 常见问题解答
 Before opening an issue, please consider the following:  
