@@ -13,7 +13,7 @@ This is a free project based on the [GPLv3](https://github.com/Mic2333/NanoSense
 
 这是一个基于[GPLv3](https://github.com/Mic2333/NanoSense/blob/master/GPLv3.md)开源协议的免费项目，以防许多**低质量**的**付费**辅助端被购买。
 
-We have added some new functions on the base of TrollHack to make it better used.
+We have added some new functions on the base of [TrollHack](https://github.com/Luna5ama/TrollHack) to make it better used.
 
 我们在[TrollHack](https://github.com/Luna5ama/TrollHack)的基础上添加了一些新功能，以使其更好地使用。
 
