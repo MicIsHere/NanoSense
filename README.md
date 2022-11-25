@@ -9,17 +9,13 @@ QQ群号: [647568476](https://jq.qq.com/?_wv=1027&k=tgBjNWLS)
 
 # What is it? | 这是什么?
 
-This is a free project to prevent a many of **low-quality** **paid** skidhack :/
+This is a free project based on the GPLv3 license to prevent a many of **low-quality** **paid** skidhack :/
 
-这是一个免费项目，以防许多**低质量**的**付费**辅助端被购买。
-
-NanoSense uses the GPLv3 license
-
-NanoSense使用了GPLv3开源许可
+这是一个基于[GPLv3](https://github.com/Mic2333/NanoSense/blob/master/GPLv3.md)开源协议的免费项目，以防许多**低质量**的**付费**辅助端被购买。
 
 We have added some new functions on the base of TrollHack to make it better used.
 
-我们在TrollHack的基础上添加了一些新功能，以使其更好地使用。
+我们在[TrollHack](https://github.com/Luna5ama/TrollHack)的基础上添加了一些新功能，以使其更好地使用。
 
 
 # Note | 注意
