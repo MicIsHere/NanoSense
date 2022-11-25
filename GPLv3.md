@@ -1,4 +1,4 @@
-#GPLv3要求:
+# GPLv3要求:
 
 1、你可以免费使用、复制、修改、分发受保护程序，但分发时一定要提供源码。
 
@@ -8,7 +8,7 @@
 
 4、GPL程序允许别人破解。如果是用在消费类硬件上，要允许人修改并安装程序。
 
-#GPLv3 requirements:
+# GPLv3 requirements:
 1. You can use, copy, modify and distribute the protected program for free, but you must provide the source code when distributing.
 
 2. You can charge. For example, you can charge for the distribution of object code and source code, and charge for software maintenance (mainly for providing technical support, hereinafter referred to as "maintenance"); However, such fees as license fee, royalty, patent license fee and licensing fee cannot be collected.
