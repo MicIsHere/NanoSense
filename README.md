@@ -9,7 +9,7 @@ QQ群号: [647568476](https://jq.qq.com/?_wv=1027&k=tgBjNWLS)
 
 # What is it? | 这是什么?
 
-This is a free project based on the GPLv3 license to prevent a many of **low-quality** **paid** skidhack :/
+This is a free project based on the [GPLv3](https://github.com/Mic2333/NanoSense/blob/master/GPLv3.md) license to prevent a many of **low-quality** **paid** skidhack :/
 
 这是一个基于[GPLv3](https://github.com/Mic2333/NanoSense/blob/master/GPLv3.md)开源协议的免费项目，以防许多**低质量**的**付费**辅助端被购买。
 
